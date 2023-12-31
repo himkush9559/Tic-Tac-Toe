@@ -50,7 +50,6 @@ h1 {
   color: rgb(250, 250, 232);
   border-radius: 4px;
   font-size: 1rem;
-  display: none;
 }
 .reset-button {
   padding: 6px 20px;
@@ -68,6 +67,8 @@ h1 {
 }
 #msg-container {
   height: 25vmin;
+
+  margin: 3rem 0;
 }
 .hide {
   display: none;
